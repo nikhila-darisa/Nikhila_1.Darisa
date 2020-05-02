@@ -1,0 +1,17 @@
+.pulsbutton{
+  border-radius: 50%;
+  position: fixed;
+  bottom: 60px;
+  right: 60px;
+  width:60px;
+  height:60px;
+  box-shadow: 2px black
+}
+.pulsbutton:hover{
+  width:180px;
+  border-radius: 40px
+}
+.story{
+  text-align: center;
+  border:1px solid black;
+}
